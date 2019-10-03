@@ -1,0 +1,11 @@
+@keyframes mymove {
+    0% {
+        color: green;
+    }
+    100% {
+        color: red;
+    }
+}
+h1 {
+    animation: mymove 5s;
+}
