@@ -8,5 +8,5 @@ for ( let i = 0; i < palabraOriginal.length; i++) {
 if (palabraOriginal === palabraReversa) {
     document.write(palabraOriginal + " es un palindromo.");
 } else {
-    document.write(palabraOriginal + " no es un palindromo.")
+    document.write(palabraOriginal + " no es un palindromo.");
 }
